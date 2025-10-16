@@ -45,3 +45,15 @@ a:link,
 a:visited {
     color: #ffe600;
 }
+
+a:focus {
+    color: aquamarine;
+}
+
+a:hover {
+    color: firebrick;
+}
+
+a:active {
+    color: plum;
+}
