@@ -37,15 +37,11 @@ strong {
     color: yellow;
 }
 
-.links:link,
-.links:visited {
-    color: #FFE600;
-    text-decoration: none;
-    margin-right: 20px;
+.accent-color {
+    color: #ffe600;
 }
 
-.links:hover,
-.links:active {
-    text-decoration: underline;
-    color: yellow;
+a:link,
+a:visited {
+    color: #ffe600;
 }
