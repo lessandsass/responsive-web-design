@@ -31,5 +31,8 @@ p {
 strong {
     background: yellow;
     color: black;
-    padding-right: 100px;
+}
+
+.accent-color {
+    color: yellow;
 }
