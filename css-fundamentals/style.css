@@ -23,20 +23,21 @@ p {
     font-size: 18px;
 }
 
-.links {
-    margin-top: 40px;
-    margin-bottom: 0;
+a {
+    color: #ffe600;
+}
+
+.button {
+    background: #ffe600;
+    color: #000;
+    padding: 20px 40px;
 }
 
 .accent-color {
     color: #ffe600;
 }
 
-a {
-    color: #ffe600;
-}
-
-a:hover,
-a:focus {
-    color: aqua;
+.links {
+    margin-top: 0;
+    margin-bottom: 0;
 }
