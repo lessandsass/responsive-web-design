@@ -36,26 +36,33 @@ header {
     color: #fff;
 }
 
-.section-two a {
-    color: #000;
-}
-
-.btn {
-    padding: 15px;
-    margin-top: 15px;
-    display: inline-block;
-}
-
 .section-one .btn {
+    display: inline-block;
+    padding: 12px 25px;
     background: #ffe600;
     color: #000;
-    border: none;
+    font-weight: bold;
     text-decoration: none;
+}
+
+.section-one .btn:hover {
+    background: white;
+}
+
+.section-two a {
+    color: black;
 }
 
 .section-two .btn {
+    display: inline-block;
+    padding: 12px 25px;
     background: #000;
     color: #fff;
-    border: none;
+    font-weight: bold;
     text-decoration: none;
+}
+
+.section-two .btn:hover {
+    background: #ffe600;
+    color: black;
 }
