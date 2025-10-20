@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: sans-serif;
 }
 
 h1,
@@ -20,8 +21,21 @@ a {
     color: #ffe600;
 }
 
-header {
+header,
+section {
     padding: 50px;
+}
+
+header {
     background: #ffe600;
+    color: #000;
+}
+
+.section-one {
+    background: #000;
+    color: #fff;
+}
+
+.section-two a {
     color: #000;
 }
