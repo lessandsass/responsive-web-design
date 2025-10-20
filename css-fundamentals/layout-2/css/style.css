@@ -20,6 +20,8 @@ a {
     color: #ffe600;
 }
 
-.accent-color {
-    color: #ffe600;
+header {
+    padding: 50px;
+    background: #ffe600;
+    color: #000;
 }
