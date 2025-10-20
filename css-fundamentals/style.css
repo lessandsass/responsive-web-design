@@ -45,3 +45,15 @@ a {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+#test {
+    color: fuchsia;
+}
+
+p {
+    color: pink;
+}
+
+.test {
+    color: lightblue;
+}
