@@ -49,3 +49,11 @@ a {
 p {
     color: pink;
 }
+
+p {
+    color: green;
+}
+
+.accent-color {
+    color: deeppink;
+}
