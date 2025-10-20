@@ -39,3 +39,23 @@ header {
 .section-two a {
     color: #000;
 }
+
+.btn {
+    padding: 15px;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.section-one .btn {
+    background: #ffe600;
+    color: #000;
+    border: none;
+    text-decoration: none;
+}
+
+.section-two .btn {
+    background: #000;
+    color: #fff;
+    border: none;
+    text-decoration: none;
+}
