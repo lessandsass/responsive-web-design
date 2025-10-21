@@ -45,7 +45,14 @@ header {
 }
 
 /* Button styles */
-.btn-yellow {
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* .btn-yellow {
     display: inline-block;
     padding: 12px 25px;
     background: #ffe600;
@@ -70,4 +77,4 @@ header {
 .btn-black:hover {
     background: #ffe600;
     color: black;
-}
+} */
