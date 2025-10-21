@@ -47,7 +47,17 @@ header {
 /* Button styles */
 .btn {
     display: inline-block;
-    padding: 15px 30px;
+    padding: 15px 25px;
     font-weight: bold;
-    font-size: 16px;
+    text-decoration: none;
+}
+
+.btn-accent {
+    background: #ffe600;
+    color: #000;
+}
+
+.btn-dark {
+    background: #000;
+    color: #fff;
 }
