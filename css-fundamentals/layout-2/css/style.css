@@ -36,7 +36,11 @@ header {
     color: #fff;
 }
 
-.section-two a {
+/* .section-two a {
+    color: black;
+} */
+
+.section-two-link {
     color: black;
 }
 
