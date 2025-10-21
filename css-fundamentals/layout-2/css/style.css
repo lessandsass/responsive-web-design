@@ -36,7 +36,12 @@ header {
     color: #fff;
 }
 
-.section-one .btn {
+.section-two a {
+    color: black;
+}
+
+/* Button styles */
+.btn-yellow {
     display: inline-block;
     padding: 12px 25px;
     background: #ffe600;
@@ -45,15 +50,11 @@ header {
     text-decoration: none;
 }
 
-.section-one .btn:hover {
+.btn-yellow:hover {
     background: white;
 }
 
-.section-two a {
-    color: black;
-}
-
-.section-two .btn {
+.btn-black {
     display: inline-block;
     padding: 12px 25px;
     background: #000;
@@ -62,7 +63,7 @@ header {
     text-decoration: none;
 }
 
-.section-two .btn:hover {
+.btn-black:hover {
     background: #ffe600;
     color: black;
 }
