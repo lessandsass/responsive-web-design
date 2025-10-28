@@ -31,6 +31,32 @@ a:focus {
     color: #d4b44c;
 }
 
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btn-accent {
+    background: #ef5839;
+    color: #fff;
+}
+
+.btn-accent:hover {
+    background: #d4b44c;
+}
+
+.btn-white {
+    background: #fff;
+    color: #2e354f;
+}
+
+.btn-white:hover {
+    color: #fff;
+    background: #2e354f;
+}
+
 /* Layout */
 header {
     background: #2e354f;
