@@ -18,3 +18,12 @@ h2 {
     font-size: 24px;
     color: #ef5839;
 }
+
+a {
+    color: #ef5839;
+}
+
+a:hover,
+a:focus {
+    color: #d4b44c;
+}
