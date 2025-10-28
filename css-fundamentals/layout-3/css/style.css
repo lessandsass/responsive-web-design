@@ -40,8 +40,13 @@ header {
     margin: 0 auto;
 }
 
-.section-one {
+section {
     width: 620px;
     margin: 0 auto;
     padding: 45px 0;
+}
+
+.section-two {
+    background: #2e354f;
+    color: #fff;
 }
