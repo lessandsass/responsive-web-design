@@ -4,6 +4,7 @@ body {
     color: #2e354f;
 }
 
+/* Typography */
 h1,
 h2,
 strong {
@@ -27,3 +28,5 @@ a:hover,
 a:focus {
     color: #d4b44c;
 }
+
+/* Layout */
