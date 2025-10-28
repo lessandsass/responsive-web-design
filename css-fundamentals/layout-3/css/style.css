@@ -30,3 +30,8 @@ a:focus {
 }
 
 /* Layout */
+header {
+    background: #2e354f;
+    padding: 45px 0;
+    color: #fff;
+}
