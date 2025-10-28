@@ -44,6 +44,7 @@ a:focus {
 }
 
 .btn-accent:hover {
+    color: #2e354f;
     background: #d4b44c;
 }
 
@@ -53,8 +54,8 @@ a:focus {
 }
 
 .btn-white:hover {
-    color: #fff;
-    background: #2e354f;
+    color: #2e354f;
+    background: #999;
 }
 
 /* Layout */
