@@ -5,6 +5,10 @@ body {
     color: #2e354f;
 }
 
+img {
+    width: 100%;
+}
+
 /* Typography */
 h1,
 h2,
