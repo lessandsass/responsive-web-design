@@ -1,8 +1,17 @@
 body {
     margin: 0;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Lato', sans-serif;
     color: #2e354f;
+}
+
+.section-one {
+    /* font-size: 20px; */
+}
+
+ul {
+    /* 1.5em = 150% */
+    font-size: 1.5em;
 }
 
 h1,
@@ -14,12 +23,12 @@ strong {
 /* Typography */
 
 h1 {
-    font-size: 36px;
+    font-size: 3em;
     margin: 0;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 2em;
     color: #ef5839;
 }
 
