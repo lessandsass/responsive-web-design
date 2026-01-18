@@ -37,6 +37,18 @@ a {
     margin-bottom: 50px;
 }
 
+.button:hover {
+    background: orange;
+}
+
+.btn-big {
+    font-size: 1.5rem;
+}
+
+.btn-small {
+    font-size: .75rem;
+}
+
 .accent-color {
     color: #ffe600;
 }
