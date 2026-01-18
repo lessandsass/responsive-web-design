@@ -31,7 +31,9 @@ a {
     display: inline-block;
     background: #ffe600;
     color: black;
-    padding: 15px 30px;
+    /* em is relative to the font-size of this element */
+    /* Actually .btn-big class font-size is relative to the padding sizes */
+    padding: .5em 1.25em;
     text-align: center;
     text-decoration: none;
     margin-bottom: 50px;
