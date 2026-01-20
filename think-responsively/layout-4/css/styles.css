@@ -32,3 +32,8 @@ img {
 .columns {
     display: flex;  
 }
+
+.col-bg {
+    background: #212614;
+    padding: .5em;
+}
