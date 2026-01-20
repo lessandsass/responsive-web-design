@@ -30,10 +30,11 @@ img {
 }
 
 .columns {
-    display: flex;  
+    display: flex;
+    margin: 1em 0;
 }
 
 .col-bg {
     background: #212614;
-    padding: .5em;
+    padding: 1em;
 }
