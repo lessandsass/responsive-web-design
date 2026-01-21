@@ -37,6 +37,12 @@ img {
     display: flex;
     justify-content: space-between;
     margin: 1em 0;
+
+    border: 5px solid steelblue;
+}
+
+.col {
+    border: 2px solid magenta;
 }
 
 .col-1 {
