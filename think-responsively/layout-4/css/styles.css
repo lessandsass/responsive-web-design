@@ -40,6 +40,13 @@ img {
     margin: 1em 0;
 }
 
+@media (max-width: 600px) {
+    .columns {
+        flex-direction: column;
+    }
+
+}
+
 .col-1 {
     width: 20%;
 }
