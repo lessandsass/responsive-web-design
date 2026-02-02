@@ -6,7 +6,7 @@ body {
 }
 
 /* from a minimum width of 400px and bigger */
-@media (min-width: 400px) {
+@media (min-width: 400px) and (max-width: 649px) {
     body {
         background: purple;
     }
