@@ -2,21 +2,6 @@ body {
     font-size: 1.125rem;
     color: #707070;
     margin: 0;
-    background: pink;
-}
-
-/* from a minimum width of 650px and bigger */
-@media (min-width: 500px) {
-    body {
-        background: orange;
-    }
-}
-
-/* from a minimum width of 400px and bigger */
-@media (min-width: 400px) and (max-width: 649px) {
-    body {
-        background: purple;
-    }
 }
 
 /* Typography */
