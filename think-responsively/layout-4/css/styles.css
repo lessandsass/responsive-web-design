@@ -6,18 +6,18 @@ body {
 }
 
 /* from a minimum width of 650px and bigger */
-@media (min-width: 500px) and (orientation: landscape) {
+@media (min-width: 500px) {
     body {
         background: orange;
     }
 }
 
 /* from a minimum width of 400px and bigger */
-/* @media (min-width: 400px) and (max-width: 649px) {
+@media (min-width: 400px) and (max-width: 649px) {
     body {
         background: purple;
     }
-} */
+}
 
 /* Typography */
 h1 {
