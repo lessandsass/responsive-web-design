@@ -5,17 +5,17 @@
  */
 
  nav ul {
-
+    border: 1px solid magenta;
  }
 
  nav li {
-
+    border: 2px dotted orange;
  }
 
  nav a {
-
+    border: 3px solid green;
  }
 
  nav a:hover {
-    
+
  }
