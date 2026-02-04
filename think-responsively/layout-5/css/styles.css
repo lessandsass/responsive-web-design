@@ -9,11 +9,12 @@
     list-style: none;
     padding: 0;
     display: flex;
-    justify-content: space-between;
  }
 
  nav li {
     border: 4px dotted orange;
+
+    margin: 0 1em;
  }
 
  nav a {
