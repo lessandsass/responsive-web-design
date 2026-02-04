@@ -7,6 +7,7 @@
  nav ul {
     border: 1px solid magenta;
     list-style: none;
+    display: flex;
  }
 
  nav li {
