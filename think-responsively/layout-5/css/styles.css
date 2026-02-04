@@ -6,10 +6,11 @@
 
  nav ul {
     border: 1px solid magenta;
+    list-style: none;
  }
 
  nav li {
-    border: 2px dotted orange;
+    border: 4px dotted orange;
  }
 
  nav a {
