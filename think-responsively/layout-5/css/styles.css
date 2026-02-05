@@ -84,3 +84,9 @@ h1 {
  .current-page {
     border-bottom: 1px solid #707070;
  }
+
+ @media (max-width: 675px) {
+    nav ul {
+        flex-direction: column;
+    }
+ }
