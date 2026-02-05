@@ -19,6 +19,10 @@ h1 {
     font-size: 2rem;
 }
 
+.subtitle {
+    font-weight: 700;
+}
+
 
  header {
     text-align: center;
