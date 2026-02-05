@@ -4,8 +4,14 @@
     font-family: 'Ubuntu', sans-serif;
  */
 
+ body {
+    margin: 0;
+ }
+
  header {
     text-align: center;
+    background: pink;
+    padding: 2em 0;
  }
 
  nav ul {
