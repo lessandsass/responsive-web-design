@@ -9,9 +9,16 @@
     font-family: 'Ubuntu', sans-serif;
  }
 
+ /* ==========
+    Typography
+ ===========*/
+ h1{
+    font-family: 'Lora', serif;
+ }
+
  header {
     text-align: center;
-    background: pink;
+    background: #f8f8f8;
     padding: 2em 0;
  }
 
