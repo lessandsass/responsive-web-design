@@ -38,6 +38,10 @@ h1 {
     margin: 0 auto;
  }
 
+ .container-nav {
+    display: flex;
+ }
+
  header {
     text-align: center;
     background: #f8f8f8;
