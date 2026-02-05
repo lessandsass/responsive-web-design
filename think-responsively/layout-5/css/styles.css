@@ -12,9 +12,12 @@
  /* ==========
     Typography
  ===========*/
- h1{
+h1 {
     font-family: 'Lora', serif;
- }
+    font-weight: 400;
+    color: #143774;
+}
+
 
  header {
     text-align: center;
