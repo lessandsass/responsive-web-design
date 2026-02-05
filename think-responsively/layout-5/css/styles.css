@@ -41,15 +41,16 @@ h1 {
  }
 
  nav li {
-    border: 4px dotted orange;
-
     margin: 0 1em;
  }
 
  nav a {
-    border: 3px solid green;
+    text-decoration: none;
+    color: #707070;
+    font-weight: 700;
  }
 
- nav a:hover {
-
+ nav a:hover,
+ nav a:focus {
+    color: #1792d2;
  }
