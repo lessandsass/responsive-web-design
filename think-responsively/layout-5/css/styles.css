@@ -32,12 +32,12 @@ a {
 }
 
 a:hover,
-a:focus {
+a:focus  {
     color: #143774;
 }
 
 strong {
-    
+    font-weight: 700;
 }
 
 /* h1 subtitle */
