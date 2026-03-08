@@ -27,6 +27,19 @@ h1 {
     margin: 0;
 }
 
+a {
+    color: #1792d2;
+}
+
+a:hover,
+a:focus {
+    color: #143774;
+}
+
+strong {
+    
+}
+
 /* h1 subtitle */
 .subtitle {
     font-weight: 700;
@@ -57,6 +70,8 @@ h1 {
 }
 
 
+
+
  /* ==========
     Layout
  ===========*/
@@ -72,6 +87,11 @@ h1 {
     justify-content: space-between;
  }
 
+ header {
+     background: #f8f8f8;
+     padding: 2em 0;
+ }
+ 
 @media (max-width: 675px) {
     .container-nav {
         flex-direction: column;
@@ -82,10 +102,6 @@ h1 {
     }
 }
 
- header {
-    background: #f8f8f8;
-    padding: 2em 0;
- }
 
   /* navigation */
  nav ul {
