@@ -12,19 +12,30 @@
  /* ==========
     Typography
  ===========*/
-h1 {
+
+h1, 
+h2,
+h3 {
     font-family: 'Lora', serif;
     font-weight: 400;
+}
+
+h1 {
     color: #143774;
     font-size: 2rem;
     margin: 0;
 }
 
+/* h1 subtitle */
 .subtitle {
     font-weight: 700;
     color: #1792d2;
     font-size: .75rem;
     margin: 0;
+}
+
+.article-title {
+
 }
 
  /* ==========
@@ -42,7 +53,7 @@ h1 {
     justify-content: space-between;
  }
 
- @media (max-width: 675px) {
+@media (max-width: 675px) {
     .container-nav {
         flex-direction: column;
     }
@@ -50,7 +61,7 @@ h1 {
     header {
         text-align: center;
     }
- }
+}
 
  header {
     background: #f8f8f8;
