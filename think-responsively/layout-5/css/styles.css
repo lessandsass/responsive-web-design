@@ -97,6 +97,14 @@ header {
     .container-flex {
         flex-direction: row;
     }
+    
+    main {
+        width: 75%;
+    }
+    
+    aside {
+        width: 20%;
+    }
 }
 
 /* navigation */
