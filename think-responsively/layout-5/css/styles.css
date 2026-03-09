@@ -69,9 +69,7 @@ strong {
     text-decoration: underline;
 }
 
-
 /* ==== Layout ====*/
-
 .container {
     width: 90%;
     max-width: 900px;
@@ -98,8 +96,7 @@ header {
     }
 }
 
-
-  /* navigation */
+/* navigation */
 nav ul {
     list-style: none;
     padding: 0;
