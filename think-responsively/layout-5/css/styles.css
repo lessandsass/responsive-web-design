@@ -141,12 +141,10 @@ nav a:focus {
     color: #707070;
 }
 
-@media (max-width: 675px) {
-    nav ul {
-        flex-direction: column;
-    }
+nav ul {
+    flex-direction: column;
+}
 
-    nav li {
-        margin: .5em 0;
-    }
+nav li {
+    margin: .5em 0;
 }
