@@ -4,12 +4,12 @@
     font-family: 'Ubuntu', sans-serif;
  */
 
- body {
+body {
     margin: 0;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.125rem;
     font-weight: 300;
- }
+}
 
  /* ==========
     Typography
@@ -70,27 +70,23 @@ strong {
 }
 
 
+/* ==== Layout ====*/
 
-
- /* ==========
-    Layout
- ===========*/
-
- .container {
+.container {
     width: 90%;
     max-width: 900px;
     margin: 0 auto;
- }
+}
 
- .container-nav {
+.container-nav {
     display: flex;
     justify-content: space-between;
- }
+}
 
- header {
-     background: #f8f8f8;
-     padding: 2em 0;
- }
+header {
+    background: #f8f8f8;
+    padding: 2em 0;
+}
  
 @media (max-width: 675px) {
     .container-nav {
@@ -104,38 +100,38 @@ strong {
 
 
   /* navigation */
- nav ul {
+nav ul {
     list-style: none;
     padding: 0;
     display: flex;
     justify-content: center;
- }
+}
 
- nav li {
+nav li {
     margin-left: 2em;
- }
+}
 
- nav a {
+nav a {
     text-decoration: none;
     color: #707070;
     font-weight: 700;
     padding: 0.25em 0;
- }
+}
 
- nav a:hover,
- nav a:focus {
+nav a:hover,
+nav a:focus {
     color: #1792d2;
- }
+}
 
- .current-page {
+.current-page {
     border-bottom: 1px solid #707070;
- }
+}
 
 .current-page:hover {
     color: #707070;
 }
 
- @media (max-width: 675px) {
+@media (max-width: 675px) {
     nav ul {
         flex-direction: column;
     }
@@ -143,4 +139,4 @@ strong {
     nav li {
         margin: .5em 0;
     }
- }
+}
