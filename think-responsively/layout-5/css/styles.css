@@ -76,7 +76,7 @@ strong {
     margin: 0 auto;
 }
 
-.container-nav {
+.container-flex {
     display: flex;
     justify-content: space-between;
 }
@@ -87,7 +87,7 @@ header {
 }
  
 @media (max-width: 675px) {
-    .container-nav {
+    .container-flex {
         flex-direction: column;
     }
 
