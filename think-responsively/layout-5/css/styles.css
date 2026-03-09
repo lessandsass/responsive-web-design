@@ -92,14 +92,6 @@ header {
     padding: 2em 0;
     text-align: center;
 }
- 
-main {
-    width: 75%;
-}
-
-aside {
-    width: 20%;
-}
 
 /* navigation */
 nav ul {
