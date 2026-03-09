@@ -101,6 +101,14 @@ header {
     }
 }
 
+main {
+    width: 75%;
+}
+
+aside {
+    width: 20%;
+}
+
 /* navigation */
 nav ul {
     list-style: none;
