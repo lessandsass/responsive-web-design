@@ -74,6 +74,10 @@ strong {
     text-decoration: underline;
 }
 
+.article-info {
+    margin: 2em 0;
+}
+
 /* ==== Layout ====*/
 .container {
     width: 90%;
