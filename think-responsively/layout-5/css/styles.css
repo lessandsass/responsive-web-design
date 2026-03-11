@@ -161,6 +161,10 @@ nav a:focus {
     margin-bottom: 2em;
 }
 
+.article-recent {   
+    display: flex;
+    flex-direction: column;
+}
 
 
 
