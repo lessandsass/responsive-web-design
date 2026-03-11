@@ -157,8 +157,8 @@ nav a:focus {
 /* articles */
 .article-featured {
     border-bottom: #707070 1px solid;
-    padding-bottom: 1em;
-    background: pink;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
 }
 
 
