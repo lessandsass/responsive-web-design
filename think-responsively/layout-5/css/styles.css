@@ -180,6 +180,14 @@ nav a:focus {
     .article-recent {
         flex-direction: row;
     }
+    
+    .article-recent-main {
+        width: 70%;
+    }
+    
+    .article-recent-secondary {
+        width: 25%;
+    }
 }
 
 
