@@ -190,7 +190,18 @@ nav a:focus {
         width: 30%;
     }
 
-  
+    .article-featured {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .article-image {
+        order: -2;
+    }
+    
+    .article-info {
+        order: -1;
+    }
 
 }
 
