@@ -176,6 +176,12 @@ nav a:focus {
     order: 1;
 }
 
+@media (min-width: 675px) {
+    .article-recent {
+        flex-direction: row;
+    }
+}
+
 
 
 
