@@ -183,13 +183,18 @@ nav a:focus {
     }
     
     .article-recent-main {
-        width: 70%;
+        width: 68%;
     }
     
     .article-recent-secondary {
-        width: 25%;
+        width: 30%;
     }
+
+  
+
 }
+
+
 
 
 
