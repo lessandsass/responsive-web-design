@@ -192,9 +192,9 @@ nav a:focus {
 
     .article-image {
         width: 100%;
-        height: 400px;
+        min-height: 250px;
         object-fit: cover;
-        object-position: left;
+        /* object-position: left; */
     }
 
 }
