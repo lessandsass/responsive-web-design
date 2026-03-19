@@ -100,6 +100,10 @@ strong {
     font-weight: 700;
 }
 
+.widget-recent-post-title {
+    color: #143774;
+}
+
 /* ==== Layout ==== */
 .container {
     width: 90%;
