@@ -16,6 +16,13 @@ img {
     display: block;
 }
 
+.image-full {
+    max-height: 300px;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 2em;
+}
+
  /* ==========
     Typography
  ===========*/
@@ -245,6 +252,7 @@ nav a:focus {
 .widget-image {
     order: -1;
 }
+
 
 
 
