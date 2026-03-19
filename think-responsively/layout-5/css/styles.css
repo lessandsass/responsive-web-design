@@ -226,6 +226,11 @@ nav a:focus {
     margin-bottom: 1em;
 }
 
+.widget-recent-post:last-child {
+    border: 0;
+    margin: 0;
+} 
+
 .widget-image {
     order: -1;
 }
