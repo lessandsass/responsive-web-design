@@ -224,6 +224,10 @@ nav a:focus {
     flex-direction: column;
 }
 
+.widget-image {
+    order: -1;
+}
+
 
 
 
