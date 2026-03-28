@@ -4,9 +4,8 @@ h1 {
 }
 
 .cat {
-    padding: 100px;
-    background-image: url(../images/cat.jpg);
-    /* background-position: top left; */
-    background-size: 200px;
-    background-repeat: repeat-x;
+    padding:  100px;
+    background-image: url(../images/email-pattern.png);
+    background-position: center;
+    background-size: cover;
 }
