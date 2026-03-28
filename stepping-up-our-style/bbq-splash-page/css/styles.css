@@ -13,6 +13,12 @@ h1 {
     font-weight: 300;
 }
 
+h1 + p {
+    color: #F18119;
+    font-weight: 900;
+    font-size: 1.3125rem;
+}
+
 h2 {
     font-size: 1.3125rem;
 }
