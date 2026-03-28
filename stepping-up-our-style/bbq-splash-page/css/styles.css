@@ -8,6 +8,8 @@ body {
     text-align: center;
 }
 
+/* ##### Typography ##### */
+
 h1 {
     font-size: 2.25rem;
     font-weight: 300;
@@ -38,4 +40,9 @@ h2 {
 
 strong {
     font-weight: 900;
+}
+
+/* ##### Intro Section ##### */
+.intro {
+    background-image: url(images/dark-ribs.jpg);
 }
