@@ -45,6 +45,7 @@ strong {
 
 /* ##### Intro Section ##### */
 .intro {
+    background-color: #404040;
     background-image: url(../images/dark-ribs.jpg);
     padding: 0 .25em 1em;
 }
