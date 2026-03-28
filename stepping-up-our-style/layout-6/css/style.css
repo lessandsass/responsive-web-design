@@ -5,5 +5,6 @@ h1 {
 
 .cat {
     padding: 250px;
-    background-image: url(../images/cat.jpg);
+    background-image: url(images/cat.jpg);
+    background-position: 100px 100px;
 }
