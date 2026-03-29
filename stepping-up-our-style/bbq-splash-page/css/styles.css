@@ -30,6 +30,13 @@ h2 {
     margin: 0;
 }
 
+h2 + p {
+    font-weight: 900;
+    color: #F18119;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+
 .top-text {
     font-size: 0.625rem;
     font-weight: 900;
