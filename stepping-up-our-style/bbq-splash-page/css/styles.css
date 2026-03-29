@@ -57,6 +57,7 @@ strong {
 /* ##### Intro Section ##### */
 .intro {
     background-image: url(../images/dark-ribs.jpg);
+    background-size: cover;
     background-color: #404040;
     padding: 0 .5em 2em;
     display: flex;
