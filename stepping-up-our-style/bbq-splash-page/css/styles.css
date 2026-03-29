@@ -69,9 +69,18 @@ strong {
 }
 
 /* ##### Media queries ##### */
-@media (min-width: 300px) {
+@media (min-width: 500px) {
     body {
-        background: purple;
+        font-size: 1.125rem;
+    }
+    
+    h1 {
+        font-size: 3.5rem;
+    }
+    
+    h2,
+    h1 + p {
+        font-size: 1.75rem;
     }
 }
 
