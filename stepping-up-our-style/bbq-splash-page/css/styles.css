@@ -74,6 +74,7 @@ strong {
 @media (min-width: 500px) {
     body {
         font-size: 1.125rem;
+        display: flex;
     }
     
     h1 {
@@ -84,6 +85,12 @@ strong {
     h1 + p {
         font-size: 1.75rem;
     }
+
+    .intro,
+    .main-content {
+        width: 50%;
+    }
+
 }
 
 
