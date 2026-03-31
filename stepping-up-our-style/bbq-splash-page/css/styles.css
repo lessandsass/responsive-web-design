@@ -82,6 +82,13 @@ strong {
     border: 3px solid red;
 }
 
+.container-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 50vh;
+}
+
 /* ##### Media queries ##### */
 @media (min-width: 500px) {
     body {
