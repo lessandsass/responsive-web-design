@@ -65,10 +65,6 @@ strong {
     background-color: #404040;
     background-position: center;
     padding: 0 .5em 2em;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-height: 50vh;
 }
 
 /* ##### main-content section ##### */
