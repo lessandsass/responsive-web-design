@@ -114,7 +114,7 @@ strong {
     }
 
     .container-intro {
-        height: 100vh;
+        height: 100%;
         background: pink;
     }
 
