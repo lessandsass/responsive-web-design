@@ -113,6 +113,11 @@ strong {
         justify-content: center;
     }
 
+    .container-intro {
+        height: 100vh;
+        background: pink;
+    }
+
 }
 
 
