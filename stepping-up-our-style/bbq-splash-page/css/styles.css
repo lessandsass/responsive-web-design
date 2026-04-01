@@ -92,7 +92,10 @@ strong {
     margin: 0 auto;
 }
 
-
+input,
+.btn {
+    width: 100%;
+}
 
 /* ##### Media queries ##### */
 @media (min-width: 500px) {
