@@ -86,7 +86,6 @@ strong {
 
 /* ##### Forms ##### */
 .email-collector {
-    border: 3px #F18119 solid;
     width: 80%;
     max-width: 300px;
     margin: 0 auto;
@@ -95,6 +94,12 @@ strong {
 input,
 .btn {
     width: 100%;
+}
+
+input {
+    font-family: inherit;
+    text-align: inherit;
+    margin-bottom: .75em;
 }
 
 /* ##### Media queries ##### */
