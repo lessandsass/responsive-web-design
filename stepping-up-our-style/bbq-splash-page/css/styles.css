@@ -75,7 +75,6 @@ strong {
 .container {
     max-width: 400px;
     margin: 0 auto;
-    border: 3px solid red;
 }
 
 .container-intro {
@@ -84,6 +83,16 @@ strong {
     justify-content: space-between;
     min-height: 50vh;
 }
+
+/* ##### Forms ##### */
+.email-collector {
+    border: 3px #F18119 solid;
+    width: 80%;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+
 
 /* ##### Media queries ##### */
 @media (min-width: 500px) {
@@ -115,7 +124,6 @@ strong {
 
     .container-intro {
         height: 100%;
-        background: pink;
     }
 
 }
