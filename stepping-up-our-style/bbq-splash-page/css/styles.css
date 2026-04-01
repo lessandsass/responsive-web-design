@@ -94,6 +94,7 @@ strong {
 input,
 .btn {
     width: 100%;
+    border-radius: 5px;
 }
 
 input {
@@ -102,7 +103,6 @@ input {
     margin-bottom: .75em;
     padding: .25em;
     border: 1px solid #404040;
-    border-radius: 5px;
 }
 
 /* ##### Media queries ##### */
