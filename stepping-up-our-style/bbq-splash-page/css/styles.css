@@ -116,6 +116,11 @@ input {
     cursor: pointer;
 }
 
+.btn-primary {
+    background: linear-gradient(to left, #ff713b, #ffa51d);
+    color: white;
+}
+
 /* ##### Media queries ##### */
 @media (min-width: 500px) {
     body {
