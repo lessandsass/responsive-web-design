@@ -117,13 +117,14 @@ input {
 }
 
 .btn-primary {
-    background: linear-gradient(to left, #ff713b, #ffa51d);
+    background-color: #404040;
     color: white;
-    transition: color 1s;
+    transition: background-color 250ms;
+
 }
 
 .btn-primary:hover {
-    color: black;
+    background-color: #F18119;
 }
 
 /* ##### Media queries ##### */
