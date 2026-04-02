@@ -112,6 +112,8 @@ input {
     text-transform: uppercase;
     font-weight: 900;
     letter-spacing: 1px;
+    border: 0;
+    cursor: pointer;
 }
 
 /* ##### Media queries ##### */
