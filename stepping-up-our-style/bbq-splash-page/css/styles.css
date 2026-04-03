@@ -120,10 +120,11 @@ input {
     background-image: linear-gradient(to left, #FF713B, #FFA51D);
     color: white;
     transform: scale(1);
+    transition: transform 250ms;
 }
 
 .btn-primary:hover {
-    transform: scale(1.2);
+    transform: scale(1.045);
 }
 
 /* ##### Media queries ##### */
