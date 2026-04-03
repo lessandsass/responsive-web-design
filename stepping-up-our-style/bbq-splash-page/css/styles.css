@@ -123,8 +123,9 @@ input {
     transition: transform 250ms;
 }
 
-.btn-primary:hover {
-    transform: scale(1.045);
+.btn-primary:hover,
+.btn-primary:focus {
+    transform: scale(1.025);
 }
 
 /* ##### Media queries ##### */
