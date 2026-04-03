@@ -104,10 +104,11 @@ input {
     padding: .25em;
     border: 1px solid #404040;
     transform: scale(1);
+    transition: transform 250ms;
 }
 
 input:focus {
-    transform: scale(1.1);
+    transform: scale(1.025);
 }
 
 .btn {
