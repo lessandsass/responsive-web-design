@@ -64,7 +64,7 @@ strong {
 
 /* ##### Intro Section ##### */
 .intro {
-    background-image: url(../images/ribs.jpg), linear-gradient(45deg,red, blue);
+    background-image: url(../images/ribs.jpg), linear-gradient(45deg,#9c4825, #6c460c);
     background-size: cover;
     /* background-color: #ff0000; */
     background-blend-mode: multiply;
