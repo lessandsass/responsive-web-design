@@ -67,6 +67,7 @@ strong {
     background-image: url(../images/ribs.jpg);
     background-size: cover;
     background-color: #404040;
+    background-blend-mode: multiply;
     background-position: center;
     padding: 0 .5em 2em;
 }
