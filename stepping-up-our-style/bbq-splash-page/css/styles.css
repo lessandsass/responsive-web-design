@@ -64,10 +64,10 @@ strong {
 
 /* ##### Intro Section ##### */
 .intro {
-    background-image: url(../images/ribs.jpg);
+    background-image: url(../images/ribs.jpg), linear-gradient(45deg,red, blue);
     background-size: cover;
-    background-color: #ff0000;
-    background-blend-mode: screen;
+    /* background-color: #ff0000; */
+    background-blend-mode: multiply;
     background-position: center;
     padding: 0 .5em 2em;
 }
