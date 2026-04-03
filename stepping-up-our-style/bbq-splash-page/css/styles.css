@@ -43,10 +43,12 @@ h2 + p {
 
 .top-text {
     font-size: 0.625rem;
+    margin: 0;
     font-weight: 900;
     color:#F18119;
     text-transform: uppercase;
     order: -1;
+    border-top: 5px solid #F18119;
 }
 
 .fine-print {
@@ -70,6 +72,13 @@ strong {
 /* ##### main-content section ##### */
 .main-content {
     padding: 2em 1em;
+}
+
+.intro > *,
+.main-content > * {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
