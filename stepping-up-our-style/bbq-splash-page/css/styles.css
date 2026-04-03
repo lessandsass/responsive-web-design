@@ -66,11 +66,13 @@ strong {
 .intro {
     background-image: url(../images/ribs.jpg);
     background-size: cover;
-    background-color: #404040;
-    background-blend-mode: multiply;
+    background-color: #ff0000;
+    background-blend-mode: screen;
     background-position: center;
     padding: 0 .5em 2em;
 }
+
+
 
 /* ##### main-content section ##### */
 .main-content {
