@@ -15,11 +15,12 @@ body {
 
     display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 .flex-item {
     background: #8BEE86;
     margin: .5em;
-    padding: .5em;
+    padding: .5em;  
     color: #424656;
 }
