@@ -14,7 +14,7 @@ body {
     padding: .25em;
 
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
 }
 
 .flex-item {
