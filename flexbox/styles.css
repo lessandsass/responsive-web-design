@@ -12,6 +12,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: .25em;
+    min-height: 50vh;
 
     display: flex;
     justify-content: space-between;
