@@ -13,11 +13,13 @@ body {
     margin: 0 auto;
     padding: .25em;
 
+    min-height: 300vh;
+
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    /* align-items: baseline; */
-    align-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-end;
 }
 
 .big {
