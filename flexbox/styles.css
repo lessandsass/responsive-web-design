@@ -25,5 +25,9 @@ body {
 
 .flex-item-1 {
     background-color: plum;
-    /* flex-grow: 1; */
+    flex-grow: 1;
+}
+
+.flex-item-2 {
+    flex-grow: 1;
 }
