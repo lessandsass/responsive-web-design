@@ -22,3 +22,8 @@ body {
     padding: 25px;  
     color: #424656;
 }
+
+.flex-item-1 {
+    background-color: plum;
+    /* flex-grow: 1; */
+}
