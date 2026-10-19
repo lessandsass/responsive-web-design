@@ -29,6 +29,7 @@ body {
 
 .flex-item-1 {
     background-color: plum;
+    margin: 0 auto;
 }
 
 .flex-item-2 {
