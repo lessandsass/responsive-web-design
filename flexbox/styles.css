@@ -14,13 +14,6 @@ body {
     padding: .25em;
 
     display: flex;
-    flex-direction: column;
-}
-
-@media (min-width: 600px) {
-    .flex-container {
-        flex-direction: row;
-    }
 }
 
 .flex-item {
@@ -34,7 +27,6 @@ body {
 
 .flex-item-1 {
     background-color: plum;
-    flex-basis: 100px;
 }
 
 .flex-item-2 {
