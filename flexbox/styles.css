@@ -19,21 +19,21 @@ body {
 .flex-item {
     background: #8BEE86;
     margin: 25px;
-    padding: 25px;  
+    padding: .5em;  
     color: #424656;
+
+    width: 200px;
 }
 
 .flex-item-1 {
     background-color: plum;
-    /* flex-grow: 1; */
-
-    flex-shrink: 1;
+    flex-basis: 400px;
 }
 
 .flex-item-2 {
-    flex-grow: 0;
+
 }
 
 .flex-item-3 {
-    /* flex-grow: 5; */
+
 }
