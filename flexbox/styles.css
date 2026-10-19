@@ -9,11 +9,12 @@ body {
 
 .flex-container {
     border: 10px solid #F9F871;
-    max-width: 700px;
+    width: 80%;
     margin: 0 auto;
     padding: .25em;
 
     display: flex;
+    height: 50vh;
 }
 
 .flex-item {
@@ -27,7 +28,6 @@ body {
 
 .flex-item-1 {
     background-color: plum;
-    flex: 400px;
 }
 
 .flex-item-2 {
