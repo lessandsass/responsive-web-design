@@ -27,7 +27,7 @@ body {
 
 .flex-item-1 {
     background-color: plum;
-    flex: 0 1 400px;
+    flex: 400px;
 }
 
 .flex-item-2 {
