@@ -8,3 +8,13 @@ html, body {
     margin: 0 auto;
     max-width: 800px;
 }
+
+.card-title {
+    color: #05cbe9;
+    font-size: 1.75rem;
+    
+}
+
+.card-body {
+    font-size: 1rem;
+}
