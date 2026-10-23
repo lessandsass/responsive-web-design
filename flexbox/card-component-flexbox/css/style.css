@@ -60,3 +60,8 @@ html, body {
     margin: 0;
 }
 
+.card-read-time span {
+    font-weight: 700;
+    display: block;
+}
+
