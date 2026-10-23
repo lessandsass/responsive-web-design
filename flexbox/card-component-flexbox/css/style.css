@@ -23,7 +23,7 @@ html, body {
 }
 
 .card-title,
-.card-read-more,
+.card-read-time,
 .card-btn {
     font-family: 'Blinker', sans-serif;
 }
@@ -52,13 +52,14 @@ html, body {
     color: #111d4a;
     text-decoration: none;
     font-weight: 700;
-    padding: .25em 1em;
+    padding: .35em 1em;
     letter-spacing: 1px;
 }
 
 .card-read-time {
     margin: 0;
     opacity: .6;
+    line-height: 1;
 }
 
 .card-read-time span {
