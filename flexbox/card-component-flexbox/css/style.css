@@ -15,6 +15,7 @@ html, body {
 
 .card-img {
     object-fit: cover;
+    height: 150px;
 }
 
 .card-title,
