@@ -13,6 +13,10 @@ html, body {
     flex-direction: column;
 }
 
+.card-img {
+    object-fit: cover;
+}
+
 .card-title,
 .card-read-more,
 .card-btn {
