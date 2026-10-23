@@ -10,6 +10,7 @@ html, body {
     background: #111d4a;
     color: #fff;
     display: flex;
+    flex-direction: column;
 }
 
 .card-title,
