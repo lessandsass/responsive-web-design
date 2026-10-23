@@ -42,6 +42,7 @@ html, body {
 
 .card-footer {
     display: flex;
+    justify-content: space-between;
 }
 
 .card-btn {
