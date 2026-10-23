@@ -52,6 +52,8 @@ html, body {
     color: #111d4a;
     text-decoration: none;
     font-weight: 700;
+    padding: .25em 1em;
+    letter-spacing: 1px;
 }
 
 .card-read-time {
