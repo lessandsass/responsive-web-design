@@ -3,6 +3,12 @@ html, body {
     padding: 0;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .card {
     width: 90%;
     margin: 0 auto;
