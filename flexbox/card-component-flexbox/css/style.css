@@ -22,6 +22,15 @@ html, body {
         height: 300px;
     }
 
+    .card-content {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .card-footer {
+        margin-top: auto;
+    }
+
 }
 
 .card-img {
@@ -59,7 +68,7 @@ html, body {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    margin-top: 6em;
+    margin-top: 3em;
 }
 
 .card-btn {
