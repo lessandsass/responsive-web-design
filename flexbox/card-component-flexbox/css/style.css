@@ -13,9 +13,20 @@ html, body {
     flex-direction: column;
 }
 
+@media (min-width: 600px) {
+    .card {
+        flex-direction: row;
+    }
+
+    .card-img {
+        height: 300px;
+    }
+
+}
+
 .card-img {
     object-fit: cover;
-    height: 150px;
+    flex-basis: 200px;
     background: yellow;
 }
 
