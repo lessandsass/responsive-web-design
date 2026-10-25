@@ -93,6 +93,7 @@ html, body {
     
     .card-body {
         font-size: 1.125rem;
+        max-width: 500px;
     }
     
     .card-footer {
